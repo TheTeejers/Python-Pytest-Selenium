@@ -7,6 +7,10 @@
 [![Sauce Test Status](https://saucelabs.com/buildstatus/phillr)](https://saucelabs.com/u/phillr)
 
 
+[![Sauce Test Status](https://saucelabs.com/browser-matrix/TheTeejers.svg)](https://saucelabs.com/u/TheTeejers)
+[![Sauce Test Status](https://saucelabs.com/browser-matrix/phillr.svg)](https://saucelabs.com/u/phillr)
+
+
 This code is meant for actual py.test users with aspirations beyond running unittest style tests using py.test.
 It demonstrates the use of py.test fixtures in conjunction with Selenium and SauceLabs.
 
